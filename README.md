@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Python-Flask 🐍
 - 👯 I’m looking to collaborate on backend projects 🧑‍💻
 - 📫 How to reach me: rpaathi777@gmail.com 📬
-- 😄 Pronouns: Men⚡
-- ⚡ Fun fact: Use Brute forced 🧠
+- 😄 Pronouns: proudly Men⚡
+- ⚡ Fun fact: Use the Brain 🧠
